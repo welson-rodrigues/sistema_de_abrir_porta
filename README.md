@@ -7,4 +7,4 @@
 É necessário ter o modelo 3D da porta junto com um objeto filho vazio adicionado nela, pois assim o objeto fica sendo tipo a dobradiça da porta. Lembrando que o script deve ser adicionado nesse objeto filho.
 
 #### Demostração (clique para assistir)
-[![Video]](https://youtu.be/RcxVoLsLAwE?feature=shared "Video")
+[[Clique neste link para ir pro YouTube]](https://youtu.be/RcxVoLsLAwE?feature=shared "Video")
